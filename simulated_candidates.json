@@ -1,0 +1,39 @@
+[
+  {
+    "full_name": "Tarun mamidipally",
+    "years_experience": "2",
+    "desired_position": "2",
+    "current_location": "hyd",
+    "tech_stack": [
+      "ML"
+    ],
+    "consent": true,
+    "last_questions_json": {
+      "ML": [
+        {
+          "question": "What is the difference between supervised and unsupervised learning?",
+          "difficulty": "easy",
+          "area": "concepts"
+        },
+        {
+          "question": "How do you handle class imbalance in a binary classification problem?",
+          "difficulty": "medium",
+          "area": "algorithms"
+        },
+        {
+          "question": "What is overfitting and how can you prevent it in a machine learning model?",
+          "difficulty": "medium",
+          "area": "performance"
+        },
+        {
+          "question": "Explain the concept of regularization in machine learning and its types.",
+          "difficulty": "hard",
+          "area": "algorithms"
+        }
+      ]
+    },
+    "email_hashed": "73d22ef36f227860cc9f62a55a16795e27c6e0de0236b75ed0503ee7c648bf2d",
+    "phone_hashed": "35b2c24a56703d8a8c58a75c03e20d48ad76ba760fe22091f392d311726b7fcd",
+    "saved_at": 1759470987
+  }
+]
